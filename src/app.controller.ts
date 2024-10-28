@@ -10,10 +10,10 @@ export class AppController {
   @Get()
   @ApiResponse({
     status: 200,
-    description: "Api Status",
+    description: "Status da API",
   })
   
   health(): string {
-    return 'Gateway is on';
+    return 'Serviço OK';
   }
 }
