@@ -27,3 +27,10 @@ $ npm run start:prod
 ```bash 
 $ docker compose up -d
 ```
+
+# Swagger - Documentação
+### Para testes locais com swagger
+
+```bash 
+$ http://localhost:3000/api
+```
