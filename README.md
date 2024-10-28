@@ -34,3 +34,6 @@ $ docker compose up -d
 ```bash 
 $ http://localhost:3000/api
 ```
+
+# Questões de Algorítmo
+### Dentro do diretório prova há 2 arquivos js com as soluções  
